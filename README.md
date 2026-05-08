@@ -25,17 +25,6 @@ Edit the top of `artemis_downloader.py`:
 | `OUTPUT_DIR` | Where to save downloaded photos | `./artemis_ii_photos/` |
 | `MAX_WORKERS` | Parallel download threads | `10` |
 
-## Sample output
-
-```
-🚀 Artemis II Photo Downloader
-========================================
-Found 12437 photos. Downloading to './artemis_ii_photos/'...
-
-[1/12437 | ETA: 2h 14m] ✅ Downloaded: ISS070-E-12345
-[2/12437 | ETA: 2h 13m] ⏭️  Skipped (exists): ISS070-E-12346
-...
-```
 
 ## Note
 
